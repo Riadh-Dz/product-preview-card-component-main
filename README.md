@@ -2,7 +2,7 @@
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
-this is just a challage I did from #Frontend Mentor to improve my skills
+this is just a challange I did from #Frontend Mentor to improve my skills
 ## The challenge
 
 Your challenge is to build out this product preview card component and get it looking as close to the design as possible.
